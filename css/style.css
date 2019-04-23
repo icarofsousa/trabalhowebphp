@@ -1,0 +1,90 @@
+.centraliza{
+	text-align: center;
+}
+thead{
+	background:#d2d2d2;
+}
+a, a:hover{
+	text-decoration:none;
+}
+.cortextobtn a{
+	color: #fff;
+}
+.login{
+	width: 30%;
+	margin: 0 auto;
+	padding: 50px;
+	border:1px solid #ccc;
+	background:#f2f2f2;
+	
+}
+.tituloLogin{
+	font-size:20px;
+	margin:5px 0 30px 0;	
+	color:#e23f3f;
+	font-weight:bold;
+}
+.statusAtivo{
+	color:blue;
+}
+.statusInativo{
+	color:red;
+}
+
+.msg-bem-vindo{
+	background: #157586;
+    border-radius: 200px;
+    position: relative;
+    left: 10px;
+    color: white !important;
+    transition: 0.5s;
+}
+
+.msg-bem-vindo:hover{
+	background: #078da5 !important;
+    transition: 0.5s;
+}
+
+.nav-sidebar > .active > a{
+	background: #2294a9 !important;
+	transition: 0.7s;
+	margin-bottom: 2px;
+}
+
+.nav-sidebar > .active > a:hover{
+	background: #4db3c5 !important;
+	transition: 0.7s;
+
+}
+
+.sidebar{
+	background-color: #157586 !important;
+}
+
+.error{
+	color: red !important;
+}
+
+.menu-categorias{
+    color: white !important;
+    text-align: center !important;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration-color: #bef5ff;
+    text-decoration-style: wavy;
+}
+
+thead {
+    background: #337ab7 !important;
+    color: white !important;
+}
+
+.navbar-inverse{
+	background: #063c46 !important;
+}
+
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav>li>a{
+	color: #eceff9;
+	transition: 0.7s;
+}
+
